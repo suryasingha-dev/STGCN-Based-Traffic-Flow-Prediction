@@ -235,7 +235,7 @@ python benchmark.py --samples 1000 --epochs 50
 
 ---
 
-## Author
+## Authors
 
 ### Surya Singha
 ### Pramiti Shekhar Singh
