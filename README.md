@@ -10,6 +10,11 @@ Traffic forecasting is a critical component of Intelligent Transportation System
 
 This project implements a **Spatio-Temporal Graph Convolutional Network (ST-GCN)** that represents road segments as graph nodes and traffic relationships as graph edges, enabling the model to learn complex spatio-temporal dependencies for traffic flow prediction.
 
+<p align="center">
+  <img src="assets/map.png" width="900">
+</p>
+
+
 ---
 
 ## Architecture
