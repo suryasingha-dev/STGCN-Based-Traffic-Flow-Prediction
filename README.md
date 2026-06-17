@@ -238,5 +238,4 @@ python benchmark.py --samples 1000 --epochs 50
 ## Author
 
 ### Surya Singha
-
-AI/ML • Software Development • Python & C++ • Building Real-World Solutions
+### Pramiti Shekhar Singh
